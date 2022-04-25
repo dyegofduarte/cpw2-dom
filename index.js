@@ -89,7 +89,7 @@ function search(){
     /* APAGANDO OS VALORES QUE FORAM ADICIONADOS AO DIV search */
     removeAllChildren(resultado);
 
-    /* TRATANDO O CAMPO COMO VAZIO PARA NÃO RETORNAR TODOS OS VALORES CASO O CAMPO ESTEJKA VAZIO */
+    /* TRATANDO O CAMPO COMO VAZIO PARA NÃO RETORNAR TODOS OS VALORES CASO O CAMPO ESTEJA VAZIO */
  /*   if (pesquisa == "null")
         {
             console.log("NULO ");
